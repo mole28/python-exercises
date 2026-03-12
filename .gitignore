@@ -3,3 +3,5 @@ venv/
 *.json
 __pycache__/
 .vscode/
+*.pyproj
+*.pyproj.user
