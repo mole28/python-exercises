@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="date_calc/date_calc.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="6731a618-bed9-4c1f-9f3b-8f472b985174">
+    <Build Project="false" />
+  </Project>
+  <Project Path="ex1/ex1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="d86ac06f-256d-440f-9abe-46b65d156232">
+    <Build Project="false" />
+  </Project>
+  <Project Path="ex_loggin/ex_loggin.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="6f1b4efa-718f-4143-b303-452a62da8112">
+    <Build Project="false" />
+  </Project>
+  <Project Path="weather_monitor/weather_monitor.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="ccdab13e-ef0f-4c6b-ae71-2bf2438f197f">
+    <Build Project="false" />
+  </Project>
+</Solution>
